@@ -1,0 +1,88 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+  }
+  ul li{
+        padding:0 1rem;
+        margin:auto;
+  }
+  ul li a{
+    font-size:1.2rem;
+    font-weight:500;
+    color:purple;
+    text-decoration-line: none;
+    font-family:roboto;
+
+  }
+  .background{
+    height:70vh;
+    width:100wv;
+    background-color:rgb(140, 178, 238);
+    background-size: cover;
+    
+  }
+  .heading{
+    font-family:roboto;
+    font-size:60px;
+    padding:20px;
+    margin:10px;
+  }
+  .button-container{
+height:40px;
+width:180px;
+color:purple;
+border-radius:8px;
+text-align:center;
+padding:4px;
+background-color: rgb(147, 184, 249);
+margin-left:100px;
+font-family:roboto;
+font-size:20px;
+font-weight:bold;
+
+
+
+
+
+  }
+  
+ .image{
+    height:300px;
+    width:300px;
+    
+    border-radius:30px;
+    margin-left:40px;
+    margin-left:120px;
+    margin:20px;
+ }
+
+.Sneha{
+  background-image:url("https://media.istockphoto.com/id/821675798/vector/abstract-futuristic-circle-sci-fi-technology-innovation-concept-background.jpg?s=1024x1024&w=is&k=20&c=hVi2bE4LweYyDXRakgC7lNUxAEQl5tcuUC2ia5attw8=");
+background-size: cover;
+padding:20px;
+background-position: relative;
+  }
+  .card{
+     background-image:url("https://cdn.pixabay.com/photo/2020/05/07/04/01/digitization-5140071_1280.jpg");
+     padding:20px;
+     
+   }
+  h1{
+    color:white;
+    font-family:  sans-serif;
+    font-size:40px;
+    font-weight:bold;
+ }
+ p{
+  color:white;
+  font-family:roboto;
+  font-size:20px;
+}
+.float{
+  margin-left:450px;
+}
