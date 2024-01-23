@@ -132,3 +132,12 @@ margin:20px;
 .text{
   padding:20px;
 }
+.why{
+  background-color: white;
+}
+.description{
+  font-family:roboto;
+  font-size:18px;
+  color:black;
+  padding:10px;
+}
